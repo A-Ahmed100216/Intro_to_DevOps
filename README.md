@@ -44,12 +44,13 @@
 4. Cost 
 
 ## DevOps Lifecycle
-**Continuous Development**
-Continuous Testing
-**Continuous Integration**
-Continuous Deployment
-Continuous Delivery 
-Continuous Monitoring 
+**Continuous Development**  
+Continuous Testing  
+**Continuous Integration**  
+Continuous Deployment   
+Continuous Delivery    
+Continuous Monitoring    
+
 ![Dev Lifecycle](images/devops_lifecycle.png)
 
 
